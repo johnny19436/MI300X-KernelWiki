@@ -18,3 +18,8 @@ Related MI300X optimization pages:
 Low-level reference:
 
 - `../amdgpu_isa_cdna3.xml` - CDNA 3 ISA reference used for low-level instruction details.
+
+Raw source pages:
+
+- `pages/page-XX.jpg` - page images extracted from the white paper.
+- These images are kept as source material and are not used as primary indexed MI300X guidance.
